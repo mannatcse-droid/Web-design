@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Educational Details</title>
+</head>
+<body>
+    <h1>Educational Details</h1>
+
+    <table border="2" cellpadding="10" cellspacing="0">
+        <tr>
+            <th>Qualification</th>
+            <th>School/College</th>
+            <th>Board/University</th>
+            <th>Year of Passing</th>
+            <th>Percentage/Grade</th>
+        </tr>
+        <tr>
+            <td>10th</td>
+            <td>ABC Public School</td>
+            <td>CBSE</td>
+            <td>2021</td>
+            <td>90%</td>
+        </tr>
+        <tr>
+            <td>12th</td>
+            <td>XYZ Senior Secondary School</td>
+            <td>CBSE</td>
+            <td>2023</td>
+            <td>88%</td>
+        </tr>
+        <tr>
+            <td>Bachelor’s in Computer Science</td>
+            <td>ABC College</td>
+            <td>University of Delhi</td>
+            <td>2026</td>
+            <td>A Grade</td>
+        </tr>
+    </table>
+
+</body>
+</html>
