@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Example of Lists in HTML</title>
+</head>
+<body>
+    <h1>Types of Lists in HTML</h1>
+
+    <!-- Ordered List -->
+    <h2>1. Ordered List (Numbered List)</h2>
+    <p>Example: Steps to make tea</p>
+    <ol>
+        <li>Boil water</li>
+        <li>Add tea leaves</li>
+        <li>Add milk and sugar</li>
+        <li>Stir and serve hot</li>
+    </ol>
+
+    <!-- Unordered List -->
+    <h2>2. Unordered List (Bulleted List)</h2>
+    <p>Example: My favorite fruits</p>
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Mango</li>
+        <li>Grapes</li>
+    </ul>
+
+    <!-- Definition List -->
+    <h2>3. Definition List</h2>
